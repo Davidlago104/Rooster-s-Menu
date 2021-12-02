@@ -3,8 +3,9 @@ p {
 }
 
 h2 {
-    text-align: center;
-    background-color: red;
+    margin: 25px 50px 75px 100px;
+    padding: 15px;
+    background: red;
 }
 
 h3 {
@@ -13,4 +14,11 @@ h3 {
 
 section {
     text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 70%;
 }
