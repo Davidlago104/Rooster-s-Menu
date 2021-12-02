@@ -37,3 +37,16 @@ img {
 .dry {
     text-align: center;
 }
+
+.party {
+    text-align: center;
+    background-image: url("../images/confetti.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+footer {
+    color:white;
+    background-color: black;
+}
