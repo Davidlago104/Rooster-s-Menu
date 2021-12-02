@@ -12,6 +12,13 @@ h3 {
     text-align: center;
 }
 
+.he3{
+    text-align: center;
+    color: red;
+    background-color: black;
+    padding: 10px;
+}
+
 section {
     text-align: center;
 }
@@ -21,4 +28,12 @@ img {
     margin-left: auto;
     margin-right: auto;
     max-width: 70%;
+}
+
+.sauces{
+    text-align: center;
+}
+
+.dry {
+    text-align: center;
 }
