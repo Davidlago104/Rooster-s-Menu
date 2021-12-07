@@ -50,3 +50,18 @@ footer {
     color:white;
     background-color: black;
 }
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    background-position: center;
+    height: 500px;
+    width: 600px;
+}
+
+.mapouter {
+    position: relative;
+    text-align: right;
+    height: 100%;
+    width: 100%;
+}
