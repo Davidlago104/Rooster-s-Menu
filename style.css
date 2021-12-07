@@ -12,6 +12,11 @@ h3 {
     text-align: center;
 }
 
+h5 {
+    text-align: justify;
+    width: auto;
+}
+
 .he3{
     text-align: center;
     color: red;
