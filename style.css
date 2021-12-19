@@ -1,9 +1,5 @@
-p {
-    text-align: center;
-}
-
 h2 {
-    margin: 25px 50px 75px 100px;
+    margin: 50px 100px;
     padding: 15px;
     background: red;
 }
@@ -24,7 +20,7 @@ h5 {
     padding: 10px;
 }
 
-section {
+.drinks {
     text-align: center;
 }
 
@@ -35,11 +31,7 @@ img {
     max-width: 70%;
 }
 
-.sauces{
-    text-align: center;
-}
-
-.dry {
+.apps {
     text-align: center;
 }
 
@@ -71,66 +63,6 @@ footer {
     width: 100%;
 }
 
-/* .navbar {
-  overflow: hidden;
-  background-color: #333;
-  position: fixed; /* Set the navbar to fixed position */
-  top: 0; /* Position the navbar at the top of the page */
-  width: 100%; /* Full width */
-} */
-
-/* Links inside the navbar */
-/* .navbar a {
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-} */
-
-/* Change background on mouse-over */
-.navbar a:hover {
-  background: #ddd;
-  color: black;
-}
-
-/* Main content */
-.main {
-  margin-top: 30px; /* Add a top margin to avoid content overlay */
-}
-
-.p-wrapper {
-    display: inline;
-}
-
 body {
   margin: 0;
-}
-
-.header {
-  background-color: #F3F3F3;
-  display: flex;
-  align-items: baseline;
-  padding: .5rem;
-  gap: 1rem;
-}
-
-.link {
-  background: none;
-  border: none;
-  text-decoration: none;
-  color: #777;
-  font-family: inherit;
-  font-size: inherit;
-  cursor: pointer;
-  padding: 0;
-}
-
-.link:hover {
-  color: black;
-}
-
-.dropdown {
-  position: relative;
 }
