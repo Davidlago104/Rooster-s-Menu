@@ -84,7 +84,7 @@ body {
     border-radius: .25rem;
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .1);
     opacity: 0;
-    transform: translate(-10px);
+    transform: translateY(-10px);
     transition: opacity 150ms ease-in-out, transform 150ms ease-in-out;
 }
 
@@ -132,3 +132,8 @@ footer {
     width: 100%;
 }
 
+.dropdown-links {
+    display: flex;
+    flex-direction: column;
+    gap: .25rem;
+}
