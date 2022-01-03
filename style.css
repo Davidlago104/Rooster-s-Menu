@@ -117,19 +117,18 @@ footer {
     background-color: black;
 }
 
-.gmap_canvas {
-    overflow: hidden;
-    background: none !important;
-    background-position: center;
-    height: 500px;
-    width: 600px;
+.map {
+    width: 90%;
+    height: 90%;
+    position: fixed;
+    text-align: center;
 }
 
-.mapouter {
-    position: relative;
-    text-align: right;
+.gmap {
+    width: 70%;
     height: 100%;
-    width: 100%;
+    margin: 0px auto;
+    display: inline-block;
 }
 
 .dropdown-links {
